@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# weather_api
-=======
+
 # weather_api
 
 A new Flutter project.
